@@ -1,4 +1,4 @@
-module wraplogger
+module github.com/vrnvgasu/logwrapper
 
 go 1.22.1
 
